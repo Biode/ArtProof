@@ -353,10 +353,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2106510159029825346}
     m_Modifications:
-    - target: {fileID: 100120, guid: 1d377f0ca8b994b44b513de93a1a78b3, type: 3}
-      propertyPath: m_Name
-      value: RangerPos_Float
-      objectReference: {fileID: 0}
     - target: {fileID: 400060, guid: 1d377f0ca8b994b44b513de93a1a78b3, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.244
@@ -404,6 +400,14 @@ PrefabInstance:
     - target: {fileID: 400060, guid: 1d377f0ca8b994b44b513de93a1a78b3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -90.00001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 1d377f0ca8b994b44b513de93a1a78b3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cd5d31b310a3c754c8b7b11dd7d623c4, type: 2}
+    - target: {fileID: 100120, guid: 1d377f0ca8b994b44b513de93a1a78b3, type: 3}
+      propertyPath: m_Name
+      value: RangerPos_Float
       objectReference: {fileID: 0}
     - target: {fileID: 400062, guid: 1d377f0ca8b994b44b513de93a1a78b3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -485,10 +489,6 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: -23.027191
       objectReference: {fileID: 0}
-    - target: {fileID: 2300000, guid: 1d377f0ca8b994b44b513de93a1a78b3, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: cd5d31b310a3c754c8b7b11dd7d623c4, type: 2}
     - target: {fileID: 2300002, guid: 1d377f0ca8b994b44b513de93a1a78b3, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
